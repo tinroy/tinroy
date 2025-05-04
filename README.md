@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinroy
 - 👀 I’m interested in database design, code and art
 - 🌱 I’m currently learning database design
-- 💞️ I’m looking to collaborate on database design
+- 💞️ I’m looking to collaborate on database design, digital art
 - 📫 How to reach me : thinking...
 - 😄 Pronouns: not needed
 - ⚡ Fun fact: will update later
